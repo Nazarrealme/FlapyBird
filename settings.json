@@ -1,0 +1,11 @@
+{
+    "window_width": 800,
+    "window_height": 600,
+    "fps": 60,
+    "background": "back2.jpg",
+    "bird_skin": "bird_.png",
+    "difficulty": "hard",
+    "sound_effects": true,
+    "music": false,
+    "music_volume": 0.15
+}
